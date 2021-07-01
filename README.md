@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @55soup
 - 👀 I’m interested in ... code
-- 🌱 I’m currently learning ... JAVA, HTML5, CSS3
+- 🌱 I’m currently learning ... JAVA, HTML5, CSS3, C
 - 💞️ I’m looking to collaborate on ... Unity 
 - 📫 How to reach me ... just e-mail (w2118@e-mirim.hs.kr)
 
