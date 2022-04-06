@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @55soup
+-#007396  #F7DF1E
+-  👋 Hi, I’m @55soup
 - 👀 I’m interested in ... code
 - 🌱 I’m currently learning ... JAVA, HTML5, CSS3, C, JC
 - 💞️ I’m looking to collaborate on ... Unity 
