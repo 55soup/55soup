@@ -1,4 +1,4 @@
--#007396  #F7DF1E
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 -  👋 Hi, I’m @55soup
 - 👀 I’m interested in ... code
 - 🌱 I’m currently learning ... JAVA, HTML5, CSS3, C, JC
