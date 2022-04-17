@@ -1,8 +1,5 @@
-- 👋 Hi, I’m <strong>@55soup</strong>
-- 👀 I’m interested in ... code
-- 🌱 I’m currently learning ... JAVA, HTML5, CSS3, C, JC
-- 💞️ I’m looking to collaborate on ... Unity 
-- 📫 How to reach me ... just e-mail (w2118@e-mirim.hs.kr)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=55SOUP!&fontSize=90" alt="55SOUP!" />
+
 
 <h3>#What I'm using</h3>
 <p>
@@ -21,6 +18,10 @@
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AndridStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=55soup)](https://github.com/55soup/github-readme-stats)
+
+<hr /> 
+
 </p>
 
 <h3>#Github views</h3>
@@ -29,12 +30,14 @@
 <h3>#Velog views</h3>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%4055soup&count_bg=%2320C997&title_bg=%2320C997&icon=airplayvideo.svg&icon_color=%23000000&title=velog&edge_flat=false"/></a>
 
-<h3>#velog link click! 👇</h3
+<h3>#Velog link click! 👇</h3>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=55soup)](https://velog.io/@55soup)
-
 <h3>#Github States</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=55soup)](https://github.com/55soup/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=55soup&show_icons=true&theme=onedark)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!---
 55soup/55soup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
