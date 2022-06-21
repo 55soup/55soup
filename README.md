@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=55SOUP!&fontSize=90" alt="55SOUP!" />
-
-
-<h3>#What I'm using</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=55SOUP!&fontSize=90" alt="55SOUP!" />
+  <h3>#What I'm using</h3>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -20,8 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=55soup)](https://github.com/55soup/github-readme-stats)
 
-<hr /> 
-
+---
 </p>
 
 <h3>#Github views</h3>
@@ -42,3 +40,4 @@
 55soup/55soup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
